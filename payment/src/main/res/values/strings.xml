@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Payment Gateway SDK</string>
+    <string name="direct_url">https://gateway.example.com/direct/</string>
+    <string name="hosted_url">https://gateway.example.com/hosted/</string>
+    <string name="merchant_id">merchant_id_here</string>
+    <string name="merchant_secret">merchant_secret_here</string>
+    <string name="redirect_url">https://www.example.com/</string>
+</resources>
